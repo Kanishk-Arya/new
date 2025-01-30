@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is file2
+=======
+this is file1
+>>>>>>> pop1
